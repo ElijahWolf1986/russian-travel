@@ -1,0 +1,17 @@
+@import url('../vendor/normalize.css');
+@import url('../blocks/cover/cover.css');
+@import url('../blocks/footer/footer.css');
+@import url('../blocks/header/header.css');
+@import url('../blocks/intro/intro.css');
+@import url('../blocks/lead/lead.css');
+@import url('../blocks/logo/logo.css');
+@import url('../blocks/photo-grid/photo-grid.css');
+@import url('../blocks/places/places.css');
+@import url('../blocks/section/section.css');
+
+.page {
+    background-color: #2a2c2f;
+    margin: auto;
+    max-width: 1920px;
+    font-family: Inter, Arial, sans-serif;
+}

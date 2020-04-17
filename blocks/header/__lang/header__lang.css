@@ -1,0 +1,13 @@
+.header__lang {
+    /* border: 1px solid red; */
+    margin: 0;
+    min-width: 78px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    
+}
+
+@media screen and (max-width:425px) {
+    .header__lang { min-width: 62px;  }
+}
