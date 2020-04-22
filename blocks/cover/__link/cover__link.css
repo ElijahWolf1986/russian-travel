@@ -1,9 +1,11 @@
 .cover__link {
-    grid-row: 1/1;
-    grid-column: 1/1;
-    transition: opacity 0.2s linear 0.05s;
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr;    
+    text-decoration: none;    
+     
 }
 
-.cover__link:hover {
-    opacity: 0.8;
+.cover__link:hover .cover__background{
+    opacity: 0.3;
 }
