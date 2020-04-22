@@ -1,0 +1,8 @@
+.cover__background {
+    width: 100%;
+    object-fit: cover;
+    /* grid-row: 1/1;
+    grid-column: 1/1; */
+    background-color: #2a2c2f;
+    opacity: 0.3;
+}

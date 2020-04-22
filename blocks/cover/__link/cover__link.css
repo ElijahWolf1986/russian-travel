@@ -1,0 +1,9 @@
+.cover__link {
+    grid-row: 1/1;
+    grid-column: 1/1;
+    transition: opacity 0.2s linear 0.05s;
+}
+
+.cover__link:hover {
+    opacity: 0.8;
+}
