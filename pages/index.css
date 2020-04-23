@@ -8,17 +8,6 @@
 @import url('../blocks/photo-grid/photo-grid.css');
 @import url('../blocks/places/places.css');
 @import url('../blocks/section/section.css');
+@import url('../blocks/page/page.css');
 
-.page {
-    background-color: #2a2c2f;
-    margin: auto;
-    max-width: 1440px;
-    font-family: 'Inter', sans-serif;
-    -moz-osx-font-smoothing: grayscale;
-    -webkit-font-smoothing: antialiased;
-    -webkit-text-size-adjust: 100%;
-    -ms-text-size-adjust: 100%;
-    -moz-text-size-adjust: 100%;
-    text-rendering: optimizeLegibility;
-}
 

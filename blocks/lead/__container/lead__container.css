@@ -5,3 +5,17 @@
     max-width: 984px;    
     margin: auto;
 }
+
+@media screen and (max-width: 768px) {
+    .lead__container {
+        margin: 0;
+    }
+
+}
+
+@media screen and (min-width: 769px) and (max-width: 1024px) {
+    .lead__container {
+        margin: 0 48px;
+    }
+
+}
